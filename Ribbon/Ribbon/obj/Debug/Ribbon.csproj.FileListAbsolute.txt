@@ -1,0 +1,13 @@
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\bin\Debug\Ribbon.dll
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\bin\Debug\Ribbon.pdb
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\bin\Debug\Ribbon.dll.manifest
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\bin\Debug\Ribbon.vsto
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.Properties.Resources.resources
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.csproj.GenerateResource.cache
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.csproj.CoreCompileInputs.cache
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.csproj.CopyComplete
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.dll
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.pdb
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.myRibbon.resources
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\Ribbon\Ribbon\obj\Debug\Ribbon.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\bin\Debug\WordRibbon.dll
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\bin\Debug\WordRibbon.pdb
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\bin\Debug\WordRibbon.dll.manifest
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\bin\Debug\WordRibbon.vsto
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\obj\Debug\WordRibbon.Properties.Resources.resources
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\obj\Debug\WordRibbon.csproj.GenerateResource.cache
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\obj\Debug\WordRibbon.csproj.CoreCompileInputs.cache
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\obj\Debug\WordRibbon.csproj.CopyComplete
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\obj\Debug\WordRibbon.dll
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\obj\Debug\WordRibbon.pdb
+C:\Users\AYGUN\Desktop\Projeler\Programlama Dilleri Projesi\C#\WordRibbon\WordRibbon\obj\Debug\WordRibbon.RibbonDesign.resources
